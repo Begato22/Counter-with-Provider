@@ -8,8 +8,8 @@ class CounterModuel extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 152,
-      height: 152,
+      width: 153,
+      height: 153,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(10),
         color: Colors.white,
